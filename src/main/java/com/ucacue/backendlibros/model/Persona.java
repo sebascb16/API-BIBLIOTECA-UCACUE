@@ -18,5 +18,6 @@ public abstract class Persona {
     private String apellido;
     private String nacionalidad;
     private String direccion;
+    private String telefono;
 
 }
