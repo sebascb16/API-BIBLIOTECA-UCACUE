@@ -18,6 +18,7 @@ public class Autor {
     private String apellido;
     private String nacionalidad;
     private String telefono;
+    private String celular;
 
 
     @JsonBackReference
